@@ -10,7 +10,7 @@
 
 This service provides an API for storing orders. Data is stored in MySQL.
 
-## Configuration
+## Configuration..
 
 The following environment variables are available for configuring the service:
 
